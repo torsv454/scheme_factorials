@@ -1,13 +1,3 @@
-Wayback Machine
-  
- 
-
-DEC	FEB	MAY
-Previous capture	13	Next capture
-2004	2005	2006
-7 captures
-8 Jun 2004 - 24 May 2005
- About this capture
 ;; This file contains 19 versions of the factorial
 ;; function. Have fun!
 ;;
