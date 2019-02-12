@@ -1,11 +1,7 @@
 ;; This file contains 19 versions of the factorial
 ;; function. Have fun!
 ;;
-;; Feel free to email me if you have any comments.
-;;
-;; Author:   Tord Svensson (torsv@ida.liu.se)
-;; Modified: 2003-11-03,  20:02:51
-
+;; Author:   Tord Svensson
 
 ;; 1. 
 ;; The regular factorial procedure
