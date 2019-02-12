@@ -1,2 +1,2 @@
-# scheme_factorials
-19 different implementations of the factorial function.
+# 19 different factorial functions in Scheme
+This repository contains 19 different implementations of the factorial function.
